@@ -6,3 +6,4 @@ This R script is designed specifically for processing multispectral drone imager
 
 
 # Author: Sathish Raymond Emmanuel
+# Powered by: Digital Agricultural Technology Lab
